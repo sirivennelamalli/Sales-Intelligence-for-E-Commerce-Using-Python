@@ -1,4 +1,4 @@
-# Sales-Intelligence-for-E-Commerce-Using-Python
+#E-Commerce-Business-Intelligence-Using-Python
 A Python and Pandas based data analytics project that analyzes e-commerce sales data to generate business insights through exploratory data analysis (EDA) and data visualization.
 
 ## Project Overview
@@ -88,7 +88,7 @@ The dataset contains e-commerce sales transactions including:
 ## Project Structure
 
 ```
-Sales-Intelligence-for-E-Commerce-Using-Python/
+E-Commerce-Business-Intelligence-Using-Python/
 │
 ├── E-Commerce Sales Intelligence Dashboard.ipynb
 ├── ecommerce_sales.xlsx
